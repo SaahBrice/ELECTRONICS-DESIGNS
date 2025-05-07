@@ -1,0 +1,4 @@
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Added Pin To Net: NetName=CAPACITIVE PLATE Pin=C1-2
+Added Net: Name=CAPACITIVE PLATE
+Added Rule: Name=Schematic Supply Nets_2

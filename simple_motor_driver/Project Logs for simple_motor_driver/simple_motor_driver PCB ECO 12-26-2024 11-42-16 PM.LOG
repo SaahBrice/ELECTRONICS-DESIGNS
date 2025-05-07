@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=NetB1_1 Pin=B1-2
+Added Pin To Net: NetName=NetB1_1 Pin=P1-3
+Change Net Name : Old Net Name=NetB1_1 New Net Name=PWM
+Change Net Name : Old Net Name=NetB1_6 New Net Name=OUT
+Change Net Name : Old Net Name=NetC2_2 New Net Name=VIN
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default

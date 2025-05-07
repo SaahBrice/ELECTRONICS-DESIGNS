@@ -1,0 +1,33 @@
+Removed Pin From Net: NetName=LOAD Pin=K1-1
+Removed Pin From Net: NetName=VCC Pin=K1-3
+Removed Pin From Net: NetName=NetD1_2 Pin=K1-4
+Change Component Footprint: Designator=K1 Old Footprint=FP-JTN1AS-PA-F-DC9V-MFG New Footprint=PNSC-LF-G-4-3010x1570x2330_V
+Change Component Comment : Designator=K1 Old Comment=JTN1AS-PA-F-DC9V New Comment=ALFG1PF09
+Change Managed Component Library Link : Designator=K1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=C0B51729-73CB-492B-A01E-66784704709A New ItemGUID=E3C4BD27-2B9F-426E-A6A9-7972CA349AD4 Old RevisionGUID=DAAC1D6E-AFF5-451C-A841-00F35AC3DC8E New RevisionGUID=6AA8F1F6-DCF6-4F26-ABC3-FF7C26BB7160
+Change component parameters: Designator = "K1" ("K1"); Footprint = "FP-JTN1AS-PA-F-DC9V-MFG"; UniqueID = "\RYSXIPAU" ("\RYSXIPAU")
+Change component parameters (AddParameter): Name = "Coil Voltage"; Value = "9 V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www3.panasonic.biz/ac/ae/index.jsp"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://www3.panasonic.biz/ac/e_download/control/relay/power/catalog/mech_eng_lfg.pdf?f_cd=300272"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "http://www3.panasonic.biz/ac/e_download/control/relay/power/catalog/mech_eng_lfg.pdf?f_cd=300272"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetVersion"; Value = "201402-T"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Electrical Life"; Value = "3x10^4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Switching Current"; Value = "22 A AC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Switching Voltage"; Value = "250 V AC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mechanical Life(Min.operation)"; Value = "1x10^6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "Through Hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Nominal Operating Power"; Value = "1400 mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "4-Pin Through Hole Terminal Package, Body 30.1 x 15.7 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "LF-G-4-3010x1570x2330"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageVersion"; Value = "ASCTB196E, 02/2014"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packing"; Value = "Carton, Case"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "ALFG1PF09"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pb-Free"; Value = "True"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "True"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "LF-G Relays"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetD1_2 Pin=K1-1
+Added Pin To Net: NetName=LOAD Pin=K1-3
+Added Pin To Net: NetName=VCC Pin=K1-4
