@@ -1,0 +1,17 @@
+Change Component Designator: OldDesignator=J?1 NewDesignator=J2
+Change Component Designator: OldDesignator=Q1 NewDesignator=Q2
+Change Component Designator: OldDesignator=Q2 NewDesignator=Q1
+Change Component Designator: OldDesignator=R1 NewDesignator=R8
+Change Component Designator: OldDesignator=R2 NewDesignator=R9
+Change Component Designator: OldDesignator=R3 NewDesignator=R10
+Change Component Designator: OldDesignator=R4 NewDesignator=R2
+Change Component Designator: OldDesignator=R6 NewDesignator=R7
+Change Component Designator: OldDesignator=R7 NewDesignator=R3
+Change Component Designator: OldDesignator=R8 NewDesignator=R6
+Change Component Designator: OldDesignator=R9 NewDesignator=R1
+Change Component Designator: OldDesignator=R10 NewDesignator=R4
+Added Member To Class: ClassName=OverCurrent Protection circuit Member=Component Q2 BC547B
+Added Member To Class: ClassName=OverCurrent Protection circuit Member=Component R2 1k
+Added Member To Class: ClassName=OverCurrent Protection circuit Member=Component R7 1k
+Added Member To Class: ClassName=OverCurrent Protection circuit Member=Component R8 1k
+Added Member To Class: ClassName=OverCurrent Protection circuit Member=Component R10 1k
